@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;LifeSort eclipse project&apos; to &apos;manual merge sort&apos;&#x0A;- Original element: &apos;LifeSort eclipse project&apos;&#x0A;- Renamed element: &apos;LifeSort eclipse project&apos;&#x0A;- Update references to refactored element" description="Rename Java project &apos;LifeSort eclipse project&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=LifeSort eclipse project" name="manual merge sort" references="true" stamp="1413563117709" version="1.0"/>
+</session>
