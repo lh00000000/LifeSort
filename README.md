@@ -1,4 +1,6 @@
-LifeSort
+manual merge sort
 ========
 
-merge sort algorithm but for task lists. prompts you for the comparision of two tasks at a time. arduous but reduces the problem of prioritizing to two items at a time.
+merge sort where you're prompted for each comparison task
+
+i use it to sort todo lists by priority because it's too hard for me to do it looking at the whole thing at once
